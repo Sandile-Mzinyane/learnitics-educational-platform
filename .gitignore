@@ -1,7 +1,11 @@
 # Virtual Environment
 venv/
+.venv/
 env/
 ENV/
+
+# Local tools
+.qodo/
 
 # Dependencies
 node_modules/
