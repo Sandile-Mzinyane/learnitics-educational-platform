@@ -175,10 +175,6 @@ Guidelines for contributing to Learnatics:
 3. Write tests for new features
 4. Update documentation
 
-## Support
-
-For issues or questions, please contact support@learnatics.app
-
 ## License
 
 © 2026 Learnatics. All rights reserved.
